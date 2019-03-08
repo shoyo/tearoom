@@ -24,4 +24,4 @@ The art piece itself (the "Tearoom") is a 7x7 grid of cells, where each cell is 
 Tearoom has a lifespan, where after a certain amount of time elapses, all cells become empty and never count again.
 
 ### License
-Use the code in this repository however you wish.
+Use the code in this repository however you wish. View details in [LICENSE.md](LICENSE.md).
